@@ -9,3 +9,10 @@ This repository contains the inverso client.
 $ git clone https://github.com/fabiodcasilva/inverso.git
 $ cd inverso
 ```
+
+## Build and run 
+
+```
+$ go build -o inverso
+$ ./inverso
+```
