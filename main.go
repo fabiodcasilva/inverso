@@ -6,7 +6,7 @@ import (
 	"os"
 )
 
-const version = "1.0.0"
+const version = "dev"
 
 func main() {
 	printLogo()

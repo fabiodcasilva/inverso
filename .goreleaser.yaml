@@ -1,0 +1,21 @@
+project_name: inverso
+
+builds:
+  - id: inverso
+    main: ./main.go
+    goos:
+      - linux
+      - windows
+      - darwin
+    goarch:
+      - amd64
+      - arm64
+    ldflags:
+      - -X 'main.version={{.Version}}'
+
+archives:
+  - format: tar.gz
+    files:
+      - inverso
+      - LICENSE
+      - logo.txt
