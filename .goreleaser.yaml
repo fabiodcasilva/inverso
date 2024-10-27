@@ -5,6 +5,7 @@ project_name: inverso
 builds:
   - id: inverso
     main: ./main.go
+    binary: inverso
     goos:
       - linux
       - windows
