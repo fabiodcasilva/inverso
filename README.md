@@ -1,3 +1,4 @@
+[![Go ReportCard](https://goreportcard.com/badge/fabiodcasilva/inverso)](https://goreportcard.com/report/fabiodcasilva/inverso)
 
 # inverso
 
