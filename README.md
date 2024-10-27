@@ -1,3 +1,5 @@
+[![Latest Release](https://img.shields.io/github/release/fabiodcasilva/inverso.svg)](https://github.com/fabiodcasilva/inverso/releases)
+[![Build Status](https://github.com/fabiodcasilva/inverso//actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/fabiodcasilva/inverso/actions/workflows/build.yml?query=branch%3Amain)
 [![Go ReportCard](https://goreportcard.com/badge/fabiodcasilva/inverso)](https://goreportcard.com/report/fabiodcasilva/inverso)
 
 # inverso
